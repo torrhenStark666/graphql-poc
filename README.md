@@ -11,7 +11,7 @@ Versões dos requisitos que eu utilizei:
 Antes de seguir para a execução, do server, entre na pasta server
 acesse o app.js e verifique se o endereço correpende ao do seu mongoDB.
 
-Agora ainda na pasta serve rode os comandos::
+Agora ainda na pasta server rode os comandos::
 
 	-	npm i
 	-	npm start
